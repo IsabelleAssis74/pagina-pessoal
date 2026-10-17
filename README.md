@@ -2,7 +2,7 @@
 
 Página de apresentação pessoal criada com HTML e CSS, com seção sobre mim, habilidades e contato.
 
-🔗 **Veja funcionando**:https://IsabelleAssis74.github.io/pagina-pessoal
+🔗 **Veja funcionando** :https://IsabelleAssis74.github.io/pagina-pessoal
 
 ## Tecnologias
 - HTML
